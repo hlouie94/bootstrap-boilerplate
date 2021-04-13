@@ -9,8 +9,8 @@ This project is using:
 -[Font Awesome (**Free tier**)] (https://fontawesome.com/icon?d=gallery&p=2&m=free)
 
 ...
-### Theme
+## Theme
 Add your theme info here.
 
-### Third Party Tools/Packages
+## Third Party Tools/Packages
 *Add your packages and tools here.*
